@@ -1,0 +1,32 @@
+#Title-Name {
+    margin-left: auto;
+    margin-top: auto;
+    font-weight: bold;
+    font-size: 40;
+}
+
+#subTitle {
+    margin-left: auto;
+    margin-top: auto;
+    font-weight: bold;
+    font-size: 30;
+}
+
+.title-container {
+    position: absolute;
+    left: 25%;
+    top: 40%;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+    text-align: center;
+}
+
+#Link {
+    text-decoration: underline;
+    font-size: 20;
+    position: absolute;
+    right: 5%;
+    bottom: 5%;
+    color: black;
+}
